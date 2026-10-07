@@ -1,0 +1,18 @@
+{
+  "name": "firmledger-plugins",
+  "owner": {
+    "name": "FirmLedger",
+    "email": "support@firmledger.co.ke"
+  },
+  "metadata": {
+    "description": "FirmLedger plugins for Cursor",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "firmledger",
+      "source": "./plugins/firmledger",
+      "description": "Search and verify businesses on FirmLedger from Cursor."
+    }
+  ]
+}
