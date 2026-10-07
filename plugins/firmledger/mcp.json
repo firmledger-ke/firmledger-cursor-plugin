@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "firmledger": {
+      "url": "https://mcp.firmledger.co.ke/mcp"
+    }
+  }
+}
